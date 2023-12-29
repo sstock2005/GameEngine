@@ -1,2 +1,3 @@
 # GameEngine
-Game Engine for Command Prompt in C++
+Game Engine for Command Prompt in C++  
+It is not finished, just something I made when I was watching a movie...
